@@ -1,4 +1,4 @@
-# 🔤 Sequence-to-Sequence Transliteration — English → Hindi
+#  Sequence-to-Sequence Transliteration — English → Hindi
 
 This project implements **character-level neural sequence-to-sequence models** for transliterating **Indian names** from English to Hindi.  
 It explores and compares **RNN (GRU)** and **GRU + Attention** architectures, evaluating translation quality using BLEU metrics and decoding strategies.
